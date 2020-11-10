@@ -1,0 +1,6 @@
+function(){
+    var userScore= 0;
+    var compScore = 0;
+    var userScore_span= doc.querry selector("#user-score")
+    varsss
+}
